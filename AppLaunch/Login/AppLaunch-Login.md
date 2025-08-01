@@ -18,10 +18,9 @@ To ensure the best experience with the Nomadia TourSolver application, please ch
 
 ![Frame at 0:04](../../images/AppLaunch-Login_timestamp_0_to_04.png "Download the Nomadia TourSolver application – App is available on iOS App Store and Google Play Store.")
 
+2.  **Launch the App**: After downloading, find the **TourSolver icon** on your device's main screen and **tap it** to open the app.
 
-    2.  **Launch the App**: After downloading, find the **Tool Solver icon** on your device's main screen and **tap it** to open the app.
-
-![Frame at 0:25](../../images/AppLaunch-Login_timestamp_0_to_25.png "Tap the Tool Solver icon – App launches and displays the login screen.")
+![Frame at 0:25](../../images/AppLaunch-Login_timestamp_0_to_25.png "Tap the TourSolver icon – App launches and displays the login screen.")
 
 
 *   **Initial Configuration: Login Screen Overview**
@@ -41,9 +40,7 @@ To ensure the best experience with the Nomadia TourSolver application, please ch
 
 
 ![Frame at 0:51](../../images/AppLaunch-Login_timestamp_0_to_51.png "Login screen element – The app version number is shown in the bottom right corner.")
-
-
-    *(Please note: As an AI, I cannot provide visual screenshots or diagrams.)*
+   
 
 ### Feature Explanations with Benefits
 
@@ -57,17 +54,17 @@ To ensure the best experience with the Nomadia TourSolver application, please ch
 ### Common Tasks with Detailed Steps
 
 *   **Logging In to the App**
-    Your **user ID and password** are set by your **Tool Solver back office administrator**. If you ever need to **change your password**, please **contact your administrator** directly. Here's how to log in:
+    Your **user ID and password** are set by your **TourSolver back office administrator**. If you ever need to **change your password**, please **contact your administrator** directly. Here's how to log in:
 
     1.  **Enter Your Information**: Tap into the **User ID field** and type your user ID. Then, tap into the **Password field** and type your password.
 
 ![Frame at 1:12](../../images/AppLaunch-Login_timestamp_1_to_12.png "Enter credentials – User ID and password are typed into their respective fields.")
 
-    2.  **Tap Login**: Once both fields are filled, **tap the blue Login button**.
+2.  **Tap Login**: Once both fields are filled, **tap the blue Login button**.
 
 ![Frame at 1:25](../../images/AppLaunch-Login_timestamp_1_to_25.png "Tap the blue login button – The app attempts to log you in.")
 
-    3.  **Successful Login**: If your user ID and password are correct, you will be **successfully authenticated and logged into the app**.
+3.  **Successful Login**: If your user ID and password are correct, you will be **successfully authenticated and logged into the app**.
 
 ![Frame at 1:32](../../images/AppLaunch-Login_timestamp_1_to_32.png "Correct credentials – User is successfully authenticated and logged into the app.")
 
@@ -82,5 +79,5 @@ To ensure the best experience with the Nomadia TourSolver application, please ch
 
 ### Productivity Tips
 
-*   💡 **Password Management**: Always remember that your **Tool Solver back office administrator** is the primary contact for any password changes or issues. Don't hesitate to reach out to them if you're having persistent login problems.
+*   💡 **Password Management**: Always remember that your **TourSolver back office administrator** is the primary contact for any password changes or issues. Don't hesitate to reach out to them if you're having persistent login problems.
 *   💡 **Quick Check**: Use the **eye icon** next to the password field to quickly verify your password entry before tapping **Login**. This can save you time if you tend to make typos.
