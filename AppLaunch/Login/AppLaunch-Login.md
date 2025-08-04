@@ -49,17 +49,17 @@ To ensure the best experience with the Nomadia TourSolver application, please ch
 
 2. **Tap Login**: Once both fields are filled, **tap the blue Login button**.
 
-![Frame at 1:25](<../../.gitbook/assets/Login 5.png>)
+![](<../../.gitbook/assets/Login 5.png>)
 
 3. **Successful Login**: If your user ID and password are correct, you will be **successfully authenticated and logged into the app**.
 
-![Frame at 1:32](<../../.gitbook/assets/Login 6.png>)
+![](<../../.gitbook/assets/Login 6.png>)
 
 * **Troubleshooting: Incorrect Login** Sometimes, you might make a typo or forget your password. Don't worry, the app will let you know!
   * If the **username or password you entered is incorrect**, an error message stating "**Incorrect username or password**" will appear. This message will be displayed between the password field and the login button.
   * ⚠️ **Warning**: If you see this message, double-check your user ID and password for typos, and ensure your Caps Lock is not accidentally on.
 
-![Frame at 1:46](<../../.gitbook/assets/Login 7 (1).png>)
+![](<../../.gitbook/assets/Login 7 (1).png>)
 
 ### Productivity Tips
 
