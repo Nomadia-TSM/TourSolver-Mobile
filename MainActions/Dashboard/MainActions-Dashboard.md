@@ -12,7 +12,6 @@ Upon successful login, you will immediately see your personalized **Dashboard** 
 ![Frame at 2:02](../../images/MainActions-Dashboard_timestamp_2_to_02.png "Initial login state – Progress bar shows 0 by 10 interventions.")
 
 
-*(Please note: As an AI, I cannot provide visual screenshots or diagrams.)*
 
 ### Feature Explanations with Benefits
 
@@ -24,8 +23,8 @@ The TourSolver Mobile Dashboard is packed with useful features designed to help 
 
 ![Frame at 0:11](../../images/MainActions-Dashboard_timestamp_0_to_11.png "Avatar and name display – Your profile photo and name are shown in the top left corner.")
 
-    *   **Sync Time**: In the **top right corner**, you can see the **last time the app successfully synced with the back office**.
-        *   **Benefit**: This tells you how up-to-date your data is, ensuring you're working with the latest information.
+*   **Sync Time**: In the **top right corner**, you can see the **last time the app successfully synced with the back office**.
+    *   **Benefit**: This tells you how up-to-date your data is, ensuring you're working with the latest information.
 
 ![Frame at 0:24](../../images/MainActions-Dashboard_timestamp_0_to_24.png "Sync time display – Shows the last successful sync time, indicating data freshness.")
 
@@ -37,14 +36,14 @@ The TourSolver Mobile Dashboard is packed with useful features designed to help 
 
 ![Frame at 0:44](../../images/MainActions-Dashboard_timestamp_0_to_44.png "Search button – Helps find interventions by name, number, date, or address.")
 
-    *   **In Progress Machines**: This button displays a **list of your interventions that are currently in progress**.
-        *   **Benefit**: Helps you focus on tasks you are actively working on.
+*   **In Progress Machines**: This button displays a **list of your interventions that are currently in progress**.
+    *   **Benefit**: Helps you focus on tasks you are actively working on.
         *   💡 **Tip**: This button only appears if you have interventions currently marked as "in progress".
 
 ![Frame at 0:55](../../images/MainActions-Dashboard_timestamp_0_to_55.png "In Progress Machines button – Shows a list of in-progress interventions and only appears if applicable.")
 
-    *   **Load Packages**: This button is used to **load all the delivery packages onto your truck** before you start your route for the day.
-        *   **Benefit**: Ensures you have all necessary items ready before beginning your daily tasks.
+*   **Load Packages**: This button is used to **load all the delivery packages onto your truck** before you start your route for the day.
+    *   **Benefit**: Ensures you have all necessary items ready before beginning your daily tasks.
 
 ![Frame at 1:09](../../images/MainActions-Dashboard_timestamp_1_to_09.png "Load packages button – Used to load delivery packages onto your truck before the route.")
 
@@ -92,12 +91,12 @@ The TourSolver Mobile Dashboard is packed with useful features designed to help 
 
 ![Frame at 3:27](../../images/MainActions-Dashboard_timestamp_3_to_27.png "Colored circle – Located on intervention cards, indicates status (legend in calendar menu filter option).")
 
-    *   **Late Flag**: If a task is late, you will see a small **yellow rectangle "late" flag** at the bottom center of the card.
-        *   **Benefit**: Immediately highlights overdue tasks, helping you prioritize.
+*   **Late Flag**: If a task is late, you will see a small **yellow rectangle "late" flag** at the bottom center of the card.
+    *   **Benefit**: Immediately highlights overdue tasks, helping you prioritize.
 
 ![Frame at 3:58](../../images/MainActions-Dashboard_timestamp_3_to_58.png "Late flag – Small yellow rectangle at the bottom center of the card indicates a late task.")
 
-    *   **Benefit**: Offers a comprehensive and detailed view of each task, making it easy to see all necessary information at a glance.
+*   **Benefit**: Offers a comprehensive and detailed view of each task, making it easy to see all necessary information at a glance.
 
 ![Frame at 2:46](../../images/MainActions-Dashboard_timestamp_2_to_46.png "Intervention section – Shows interventions as swipeable cards with customer name, scheduled time, and estimated duration.")
 
