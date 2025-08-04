@@ -13,7 +13,7 @@ To access the Settings screen in your TourSolver Mobile app, follow these simple
 
 ![GIF at 0:16–0:23](../../images/MainActions-Settings_timestamp_0_to_16–0_to_23.gif "Tap gear icon – Settings screen opens.")
 
-*   *(A screenshot or GIF showing the gear icon and its location would be helpful here.)*
+
 
 Once open, you'll see three main sections: **Actions**, **My Settings**, and **About Application**.
 
@@ -96,7 +96,7 @@ Here are step-by-step instructions for some common tasks you might want to perfo
 
 ![GIF at 0:31–0:38](../../images/MainActions-Settings_timestamp_0_to_31–0_to_38.gif "Tap ClearCatch – Temporary files are removed, performance optimized.")
 
-*   *(A GIF showing the tap on "Clear Cache" would be helpful here.)*
+
 
 #### How to Read the General Conditions of Use
 
@@ -118,7 +118,7 @@ Here are step-by-step instructions for some common tasks you might want to perfo
 
 ![GIF at 1:04–1:12](../../images/MainActions-Settings_timestamp_1_to_04–1_to_12.gif "Tap Send Location Logs – Logs are sent to support team.")
 
-*   *(A GIF showing the tap on "Send Location Logs" would be helpful here.)*
+
 
 #### How to Change Your Preferred Measurement Unit
 
@@ -128,7 +128,7 @@ Here are step-by-step instructions for some common tasks you might want to perfo
 
 ![GIF at 1:20–1:28](../../images/MainActions-Settings_timestamp_1_to_20–1_to_28.gif "Tap Measurement Unit and select – Unit changes to kilometers or miles.")
 
-*   *(A GIF demonstrating the selection of a unit would be helpful here.)*
+
 
 #### How to Enable Privacy Mode
 
@@ -138,7 +138,6 @@ Here are step-by-step instructions for some common tasks you might want to perfo
 
 ![GIF at 1:28–1:39](../../images/MainActions-Settings_timestamp_1_to_28–1_to_39.gif "Enable Privacy Mode – App data collection is limited.")
 
-*   *(A GIF showing the toggle action for Privacy Mode would be helpful here.)*
 
 ### Productivity Tips
 
