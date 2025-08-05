@@ -79,10 +79,10 @@ This section provides important information about the TourSolver app itself.
     *   **What it does**: Displays details about the company that developed and published the app: **Nomadia**, a leader in smart mobility solutions.
     *   **Benefit**: Provides transparency about the app's creator.
 *   **Support email**:
-    *   **What it does**: Provides the email address for technical assistance: **support@nomadiagroup.com**.
+    *   **What it does**: Provides the email address for technical assistance: **support@nomadia-group.com**.
     *   **Benefit**: Gives you a direct way to contact the support team if you need help.
 *   **Website**:
-    *   **What it does**: Shows Nomadia's website address: **www.nomadiagroup.com**.
+    *   **What it does**: Shows Nomadia's website address: **www.nomadia-group.com**.
     *   **Benefit**: You can visit their website for more information about the company and their solutions.
 
 ### Common Tasks
