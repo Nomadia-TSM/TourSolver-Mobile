@@ -1,10 +1,10 @@
 # MainActions-Calendar
 
-Hello! This guide is designed to help you confidently navigate and master the **TourSolver Mobile/Calendar** feature, ensuring you can efficiently manage your daily interventions and stay organized. While this guide provides comprehensive textual instructions, please note that as an AI, I cannot provide the requested screenshots or diagrams. However, I have indicated where such visuals would be particularly helpful for clarity.
+Hello! This guide is designed to help you confidently navigate and master the **TourSolver Mobile/Calendar** feature, ensuring you can efficiently manage your daily interventions and stay organized. 
 
 ***
 
-### 1. Friendly Introduction
+### 1. Introduction
 
 Welcome to the **TourSolver Mobile/Calendar** user guide! This tool is your essential companion for managing your daily tasks and interventions, whether they are for today or in the future. The calendar screen helps you quickly view and organize your schedule, allowing you to easily switch between different views, apply filters, and use powerful search and update tools to keep everything running smoothly. Our goal is to make managing your interventions simple, clear, and frustration-free!
 
@@ -14,8 +14,6 @@ Welcome to the **TourSolver Mobile/Calendar** user guide! This tool is your esse
 
 This section will guide you through the initial steps of accessing and understanding the TourSolver Mobile Calendar.
 
-*   **System Requirements & Installation/Setup Steps**:
-    Please note that the provided sources do not contain information regarding system requirements or the installation and initial setup steps for the TourSolver Mobile application. You may need to refer to separate documentation or your IT support for these details.
 
 *   **Initial Configuration: Opening the Calendar Screen**
     The calendar screen is your starting point for managing interventions.
