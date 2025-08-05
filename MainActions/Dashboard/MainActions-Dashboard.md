@@ -36,7 +36,7 @@ The TourSolver Mobile Dashboard is packed with useful features designed to help 
 
 ![Frame at 0:44](../../images/MainActions-Dashboard_timestamp_0_to_44.png "Search button – Helps find interventions by name, number, date, or address.")
 
-*   **In Progress Machines**: This button displays a **list of your interventions that are currently in progress**.
+*   **In Progress Interventions**: This button displays a **list of your interventions that are currently in progress**.
     *   **Benefit**: Helps you focus on tasks you are actively working on.
         *   💡 **Tip**: This button only appears if you have interventions currently marked as "in progress".
 
